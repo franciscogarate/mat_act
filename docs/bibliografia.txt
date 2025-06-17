@@ -1,0 +1,41 @@
+* Gil Fana, J.A., Heras Martínez, Antonio y Vilar Zanón, J.L. (1999) 
+   Matemática de los seguros de vida. Ed. Mapfre.
+* Vegas Jesús, Nieto Ubaldo. (2010). Matemática actuarial Ed. Mapfre.
+Internacional:
+** Dickson D.C.M. y Hardy Mary R. (2013). 
+       + Actuarial Mathematics for life contingent risk. 
+       + Solutions Manual Actuarial Mathematics for life contingent risk. 
+   Cambridge University press. 
+** Klugman, Panjer y Willmot . (2013).- Loss Models. John Wiley.
+ **Klugman, Panjer y Willmot . (2013).- Solutión manual Loss Models. John Wiley
+
+
+Bowers, N.L.; Gerber, H.V.; Hickman, J.C.; Jones, D.A.; y Nesbitt, C.J. 
+(1997) “Actuarial Mathematics”.Society of Actuaries.
+(2014) Computational Actuarial Science with R (Chapman & Hall/CRC The R Series
+Claim Reserving Manual, The Institute of Actuaries. 
+Denuit M, Maréchal X,Pitrebois S,Walhin JF (2007): Actuarial modelling of claim counts. Wiley 
+Denuit M, Dahene J, Kaas R (2005): Actuarial Theory for dependent risks. Wiley 
+Deelstra G, Plantin G. (2014): Risk Theory and reinsurance. Springer Verlag 
+Fundación Mapfre (2010): Introducción al reaseguro
+Garrett S. (2015)  Introduction to Actuarial and Financial Mathematical Methods.
+Gerber H y Cox S.H.(2010).-Life Insurance Mathematics. Springer
+Goovaerts M, Kaas R, et al.(1990): Effective Actuarial Methods. Elsevier 
+de Jong P., Heller, G. Z. (2008): Generalized Linear Models for Insurance Data. Cambridge University Press. 
+Klugmann, Panjer, Willmot (1998): Loss Distributions. From Data to Decisions. John Wiley 
+Pelaez Fermoso F.J: García González y otro. (2005) Los Planes y Fondos De Pensiones Un Análisis Financiero-Actuarial. Universidad de Valladolid.
+Panjer, H.H./ Willmot, G.E. (1992): Insurance Risk Models. Society of Actuaries 
+Promislow D. (2015) Fundamentals of Actuarial Mathematics.Wiley
+Wood,S.N.(2006): Generalized Additive Models. An introduction with R. Chapman & Hall
+England, P.D., and R.J. Verral (2002): Stochastic Claims reserving in General Insurance. British Actuarial Journal 8/3: 443-518 
+Mack, T. (2008). The prediction error of Bornhuetter/Ferguson. ASTIN Bulletin
+38/1, 87-103.
+Mack, T. (1991). A simple parametric model for rating automobile insurance or
+estimating IBNR claims reserves. ASTIN Bulletin 21/1, 93-109.
+Mack, T. (1993). Distribution-free calculation of the standard error of chain ladder
+reserve estimates. ASTIN Bulletin 23/2, 213-225.
+Moreno R. y otros. Matemática de los seguros de vida. Pirámide.
+Parodi P. (2014). Pricing in General Insurance  Theory
+Rotar. V. (2015) Actuarial Models: The Mathematics of Insurance. 
+Tse Y.K. (2009): Nonlife Actuarial Models. Cambridge University Press
+Wuthrich M. et all. (2008) Stochastic Claims Reserving Methods in Insurance Wiley Finance.
