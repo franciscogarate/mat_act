@@ -1,0 +1,11 @@
+PART I - BASIC FOUNDATIONS OF ACTUARIAL SCIENCE
+Topic 1. Actuarial Science and Actuarial Mathematics.
+Topic 2. Insurance and the Market.
+PART II - LIFE INSURANCE AND PENSIONS
+Topic 3. Actuarial Bases for Life Insurance. Mortality Tables.
+Topic 4. Premiums in Life Insurance.
+Topic 5. Mathematical Reserve.
+PART III - NON-LIFE INSURANCE
+Topic 6. Actuarial Bases for Non-Life Insurance.
+Topic 7. Premiums in Non-Life Insurance. Ratemaking.
+Topic 8. Technical Provisions in Non-Life Insurance. Methods for Calculating Claim Provisions.
